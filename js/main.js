@@ -27,6 +27,7 @@ con difficoltà 2=> tra 1 e 50
   var numeriConsentiti = [];
   var conteggio = 0;
   var utente = 0;
+  var max = 100;
 
   //BONUS
   var difficolta = parseInt(prompt('Seleziona un livello di difficoltà: \n0 facile  \n1 intermedio \n2 difficile ') );
